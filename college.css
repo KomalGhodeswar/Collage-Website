@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+    background-color: #f8f9ff;
+    color: #333;
+}
+
+header {
+    background-color: lavender;
+    padding: 30px;
+}
+
+header h1 {
+    color: #333366;
+}
+
+nav {
+    background-color: #333366;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+nav a:hover {
+    color: lavender;
+}
+
+section {
+    padding: 50px;
+}
+
+.home {
+    background-color: #eeeeff;
+    padding: 80px;
+}
+
+h2 {
+    color: #333366;
+}
+
+#courses p {
+    font-size: 18px;
+}
+
+#contact {
+    background-color: lavender;
+}
+
+footer {
+    background-color: #333366;
+    color: white;
+    padding: 15px;
+}
